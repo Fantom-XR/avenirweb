@@ -1,0 +1,27 @@
+{
+	"name": "avenir-home-page",
+	"version": "0.0.1",
+	"description": "Home page for Coaster Studios",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.12.4",
+		"font-awesome": "^4.6.3"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BlackrockDigital/startbootstrap-creative"
+	},
+	"keywords": [
+		"avaenir",
+		"Studios",
+		"Coaster-Studios",
+		"CS"
+	],
+	"license": "MIT"
+}
